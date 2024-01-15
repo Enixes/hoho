@@ -7,7 +7,7 @@
     >
         <a href="/">
             <h1 class="font-semibold">
-                Swoley <span class="text-indigo-400">Moley</span>
+                AA<span class="text-indigo-400">SA</span>
             </h1>
         </a>
         <button class="md:hidden grid place-items-center">
