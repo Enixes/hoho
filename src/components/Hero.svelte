@@ -5,5 +5,15 @@
 </script>
 <SectionWrapper>
     <Header />
-    Whaat
+        <div
+            class="flex flex-col gap-10 flex-1 items-center justify-center pb-10 md:pb-14"
+        >
+            <h2
+                class="text-5xl sm:text-6xl md:text-7xl lg:text-8xl max-w-[1200px] mx-auto w-full text-center font-semibold"
+            >
+                <span class="text-indigo-400">Gym</span> Training
+                <span class="text-slate-600 line-through">Is Hard</span><br />
+                Just Got <span class="text-indigo-400">Easier</span>
+            </h2>
+
 </SectionWrapper>
